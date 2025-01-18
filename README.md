@@ -82,6 +82,9 @@ The following outputs are saved in the `output/` directory:
 9. `model_performance.txt`: Metrics (MSE, R-squared) for the predictive model.
 
 ---
+## BanaoAiTask2Report
+BanaoAiTask2Report.pdf
+---
 
 ## Acknowledgments
 - Dataset sourced from [Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews).
