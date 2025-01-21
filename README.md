@@ -10,7 +10,7 @@ This project involves analyzing and deriving insights from a dataset combining t
 3. [Steps and Methodology](#steps-and-methodology)
 4. [Results and Visualizations](#results-and-visualizations)
 5. [Outputs](#outputs)
-6. [BanaoAiTask2Report](#PDFReport)
+6. [BanaoAiTask2Report](#banaoAitask2report)
 7. [Acknowledgments](#acknowledgments)
 
 ---
