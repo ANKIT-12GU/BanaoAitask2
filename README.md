@@ -10,7 +10,7 @@ This project involves analyzing and deriving insights from a dataset combining t
 3. [Steps and Methodology](#steps-and-methodology)
 4. [Results and Visualizations](#results-and-visualizations)
 5. [Outputs](#outputs)
-6. [BanaoAiTask2Report.pdf](#PDF-Report)
+6. [BanaoAiTask2Report](#PDFReport)
 7. [Acknowledgments](#acknowledgments)
 
 ---
@@ -83,7 +83,7 @@ The following outputs are saved in the `output/` directory:
 
 ---
 ## BanaoAiTask2Report
-BanaoAiTask2Report.pdf
+- Available In Main Directory.
 ---
 
 ## Acknowledgments
